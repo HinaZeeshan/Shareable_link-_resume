@@ -46,7 +46,7 @@ input,textarea{
 button{
     display: block;
     width: 600px;
-    padding: 10px;
+    padding: 4px;
     background-color: rgb(112, 179, 156);
     color: black;
     border: none;
